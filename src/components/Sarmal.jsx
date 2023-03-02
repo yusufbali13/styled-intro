@@ -7,4 +7,4 @@ const Sarmal = styled.div`
   background-color: ${({ bg }) => bg || "transparent"};
 `;
 
-export default Div;
+export default Sarmal;
