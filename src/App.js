@@ -1,8 +1,9 @@
 import { Button, FS13Button } from "./components/Buton.styled";
+import Sarmal from "./components/Sarmal";
 
 const App = () => {
   return (
-    <Sarmal>
+    <Sarmal bg="dede">
       <HeaderText renk="hotpink">Styled Components</HeaderText>
       <HeaderText renk="#734586" bg-Renk="">
         Styled Components
