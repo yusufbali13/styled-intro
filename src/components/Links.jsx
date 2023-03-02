@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 const Links = styled.a`
   text-decoration: none;
@@ -14,6 +14,7 @@ const Links = styled.a`
       background-color: black;
       color: #61dbfb;
       padding: 0.5rem;
+      margin-top: 1rem;
     `}
 `;
 
